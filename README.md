@@ -17,11 +17,6 @@ The primary purpose of this project is twofold:
 ## Getting Started
 Begin by cloning this repository to your local machine:
 
-```bash
-git clone https://github.com/yourusername/nfl-special-teams-analysis-project.git
-cd nfl-special-teams-analysis-project
-pip install -r requirements.txt
-jupyter notebook special_teams_analysis.ipynb
 
 ## Contact
 For questions, suggestions, or contributions, please contact Tyran Johnson, tyran210@gmail.com
